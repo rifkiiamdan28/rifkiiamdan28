@@ -17,8 +17,8 @@ Hi, I'm Rifki Amdan, a passionate self-taught Mobile Developer from Indonesia.
 
 - 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
 - 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/rifkiiamdan28/github-readme-stats)
+- 💬 Ask me about anything [here](https://github.com/rifkiiamdan28/rifkiiamdan28/issues)
 
 **Languages and Tools:**  
 
