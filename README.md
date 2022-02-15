@@ -1,4 +1,4 @@
-### Hi there, I'm [Amdan!](https://github.com/rifkiiamdan28) 👋
+### Hi there, I'm [Amdan!](https://rifkiiamdan28.github.io/) 👋
 <!-- 
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
@@ -16,7 +16,7 @@
 Hi, I'm Rifki Amdan, a passionate self-taught Mobile Developer from Indonesia.
 
 - 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
-- 🌱 I’m currently learning Typescript
+- 🌱 About me on (https://rifkiiamdan28.github.io/)
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/rifkiiamdan28/github-readme-stats)
 - 💬 Ask me about anything [here](https://github.com/rifkiiamdan28/rifkiiamdan28/issues)
 
